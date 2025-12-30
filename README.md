@@ -45,5 +45,5 @@ Feel free to fork the project and enhance it with new features.
 ## 📧 Author
 
 **Bhushan Nimase**
-GitHub: [https://github.com/YOUR_USERNAME](https://github.com/Bhushan-Nimase)
+
 
