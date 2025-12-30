@@ -27,27 +27,6 @@ The project includes product listing, cart management, admin panel, and user aut
 
 ---
 
-## 📦 How to Run
-
-1. Clone the repository  
-   ```bash
-   git clone <your-repo-link>
-````
-
-2. Open the solution in **Visual Studio**
-
-3. Update **appsettings.json** with your SQL connection string
-
-4. Run database migrations
-
-   ```bash
-   Update-Database
-   ```
-
-5. Press **F5** or click **Run**
-
----
-
 ## 📂 Project Structure
 
 * **Controllers** – Manages routes & logic
@@ -68,9 +47,3 @@ Feel free to fork the project and enhance it with new features.
 **Bhushan Nimase**
 GitHub: [https://github.com/YOUR_USERNAME](https://github.com/Bhushan-Nimase)
 
-```
-
----
-
-If you want, I can customize the README to match **your exact project**, add **screenshots**, or make a **pro-level README**.
-```
